@@ -1,0 +1,1 @@
+# A-comparison-of-methods-for-predicting-clothing-classes-using-the-Fashion-MNIST-dataset-in-RStudio
